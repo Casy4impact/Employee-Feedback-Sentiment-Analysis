@@ -1,5 +1,4 @@
-# Employee-Feedback-Sentiment-Analysis
-## Employee Feedback Sentiment Analysis: Understanding Employee Sentiment
+# Employee Feedback Sentiment Analysis: Understanding Employee Sentiment
 
 The primary goal of this project is to develop a sentiment analysis model capable of accurately assessing employee sentiment from various data sources. Through this analysis, we aim to gain insights into the factors affecting employee engagement and productivity within our organization. By the end of this project, our objective is to provide actionable recommendations based on sentiment insights to enhance employee satisfaction and productivity
 

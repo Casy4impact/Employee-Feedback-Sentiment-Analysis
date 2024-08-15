@@ -22,22 +22,22 @@ The significance of initiating the Employee Feedback Sentiment Analysis project 
 
 ## Aim of the Project
 The project's precise objectives are as follows:
-✓ Sentiment Analysis: Develop a sentiment analysis model that can accurately gauge employee sentiment from surveys and reviews.
-✓ Real-time Insights: Implement a system that provides real-time insights into employee sentiment trends, allowing for proactive intervention.
-✓ Attrition Reduction: Reduce attrition rates by identifying and addressing issues causing dissatisfaction among employees.
-✓ Enhanced Productivity: Improve overall employee productivity by fostering a positive work environment.
+- Sentiment Analysis: Develop a sentiment analysis model that can accurately gauge employee sentiment from surveys and reviews.
+- Real-time Insights: Implement a system that provides real-time insights into employee sentiment trends, allowing for proactive intervention.
+- Attrition Reduction: Reduce attrition rates by identifying and addressing issues causing dissatisfaction among employees.
+- Enhanced Productivity: Improve overall employee productivity by fostering a positive work environment.
 
 ## Data Description
 The dataset available from the company contains the following information:
-✓ Company (Company Name)
-✓ Pros (Favourable aspects of the company)
-✓ Cons (Unfavourable aspects of the company)
-✓ Overall Ratings (Employee’s overall rating as a value rated from 0 to 5)
-✓ Work Balance Stars (Employee’s feedback on work-life balance as a value rated from 0 to 5)
-✓ Culture Values Starts (Employee’s feedback on company culture as a value rated from 0 to 5)
-✓ Career Opportunities Stars (Employee’s feedback on company culture as a value rated from 0 to 5)
-✓ Comp Benefit Stars (Employee’s feedback on company compensation benefits as a value rated from 0 to 5)
-✓ Senior Management Stars (Employee’s feedback on company’s senior management as a value rated from 0 to 5)
+- Company (Company Name)
+- Pros (Favourable aspects of the company)
+- Cons (Unfavourable aspects of the company)
+- Overall Ratings (Employee’s overall rating as a value rated from 0 to 5)
+- Work Balance Stars (Employee’s feedback on work-life balance as a value rated from 0 to 5)
+- Culture Values Starts (Employee’s feedback on company culture as a value rated from 0 to 5)
+- Career Opportunities Stars (Employee’s feedback on company culture as a value rated from 0 to 5)
+- Comp Benefit Stars (Employee’s feedback on company compensation benefits as a value rated from 0 to 5)
+- Senior Management Stars (Employee’s feedback on company’s senior management as a value rated from 0 to 5)
 
 ## Tech_Stack: Pandas | NumPy | Matplotlib | Seaborn | WordCloud
 

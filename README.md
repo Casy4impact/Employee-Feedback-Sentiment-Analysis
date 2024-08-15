@@ -6,12 +6,11 @@ The primary goal of this project is to develop a sentiment analysis model capabl
 ## Business Overview/Problem
 Akati Corporation faces a pressing business challenge related to employee engagement and productivity. The challenge stems from the lack of a comprehensive understanding of employee sentiment.
 #### The specific obstacles include:
-
-✓ Low Employee Morale: Employee morale has been declining, leading to reduced productivity and increased attrition rates. This decline in morale is often linked to unidentified issues within the company.
-✓ Ineffective Feedback Mechanism: The existing feedback mechanism is outdated and inefficient. Employees do not feel heard or valued, leading to frustration and disengagement.
-✓ Lack of Insights: The company lacks real-time insights into employee sentiment, making it difficult to proactively address issues before they escalate.
-✓ Competitive Talent Market: In the highly competitive tech industry, attracting and retaining top talent is essential. The current employee sentiment challenges are affecting the company's ability to retain key personnel.
-✓ Impact on Productivity: The decline in employee engagement has a direct impact on productivity and, subsequently, on the company's bottom line.
+- Low Employee Morale: Employee morale has been declining, leading to reduced productivity and increased attrition rates. This decline in morale is often linked to unidentified issues within the company.
+- Ineffective Feedback Mechanism: The existing feedback mechanism is outdated and inefficient. Employees do not feel heard or valued, leading to frustration and disengagement.
+- Lack of Insights: The company lacks real-time insights into employee sentiment, making it difficult to proactively address issues before they escalate.
+- Competitive Talent Market: In the highly competitive tech industry, attracting and retaining top talent is essential. The current employee sentiment challenges are affecting the company's ability to retain key personnel.
+- Impact on Productivity: The decline in employee engagement has a direct impact on productivity and, subsequently, on the company's bottom line.
 
 ## Rationale for the Project
 The significance of initiating the Employee Feedback Sentiment Analysis project is underlined by several key reasons:
